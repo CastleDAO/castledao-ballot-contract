@@ -1,5 +1,6 @@
 # CastleDAO Ballot
 
+This contract relies on https://github.com/CastleDAO/generate-LRE
 
 Try running some of the following tasks:
 
